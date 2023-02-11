@@ -1,0 +1,552 @@
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.StaticWebAssets.xml
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.exe
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.deps.json
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.runtimeconfig.json
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.runtimeconfig.dev.json
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.pdb
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.Views.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.Views.pdb
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.AssemblyReference.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.AssemblyInfoInputs.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.AssemblyInfo.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.CoreCompileInputs.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.MvcApplicationPartsAssemblyInfo.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.MvcApplicationPartsAssemblyInfo.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorAssemblyInfo.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorAssemblyInfo.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.Manifest.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.Pack.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Core_Project.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Core_Project.props
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Core_Project.props
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Core_Project.props
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.xml
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.TagHelpers.input.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.TagHelpers.output.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorCoreGenerate.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorTargetAssemblyInfo.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorTargetAssemblyInfo.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.Views.pdb
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.CopyComplete
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.dll
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.pdb
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.genruntimeconfig.cache
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Products\All.cshtml.g.cs
+G:\Nurullah\IDB\Project\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Products\Search.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.StaticWebAssets.xml
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.exe
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.deps.json
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.runtimeconfig.json
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.runtimeconfig.dev.json
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.pdb
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.Views.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.Views.pdb
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.AssemblyReference.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.AssemblyInfoInputs.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.AssemblyInfo.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.CoreCompileInputs.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorAssemblyInfo.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorAssemblyInfo.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.Manifest.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.xml
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.TagHelpers.input.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.TagHelpers.output.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorCoreGenerate.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorTargetAssemblyInfo.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorTargetAssemblyInfo.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.Views.pdb
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.CopyComplete
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.dll
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.pdb
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.genruntimeconfig.cache
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Create.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Delete.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Details.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Edit.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Index.cshtml.g.cs
+D:\MVC_Core\Project\111\1269549-ASP.NET Core\CoreMonthlyProject\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\_addNewRoom.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.StaticWebAssets.xml
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.exe
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.deps.json
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.runtimeconfig.json
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.runtimeconfig.dev.json
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.pdb
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.Views.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Core_Project.Views.pdb
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.AssemblyReference.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.AssemblyInfoInputs.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.AssemblyInfo.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.CoreCompileInputs.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorAssemblyInfo.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorAssemblyInfo.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.Manifest.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.Pack.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Core_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Core_Project.props
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Core_Project.props
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Core_Project.props
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\staticwebassets\Core_Project.StaticWebAssets.xml
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.TagHelpers.input.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.TagHelpers.output.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorCoreGenerate.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Create.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Delete.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Details.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Edit.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\Index.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Guests\_addNewRoom.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\AssignRole.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorTargetAssemblyInfo.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.RazorTargetAssemblyInfo.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.Views.pdb
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.csproj.CopyComplete
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.dll
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.pdb
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Core_Project.genruntimeconfig.cache
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Rooms\Create.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Rooms\Delete.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Rooms\Details.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Rooms\Edit.cshtml.g.cs
+C:\Users\Mamun\Downloads\CoreMonthlyProject0\CoreMonthlyProject0\Core_Project\obj\Debug\netcoreapp3.1\Razor\Views\Rooms\Index.cshtml.g.cs
